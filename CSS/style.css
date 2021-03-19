@@ -1,0 +1,121 @@
+
+    /* Here is my stylesheet to store all the generic settings */
+
+    body {
+      margin:0;
+      font-family: Calibri;
+      font-size: 18px;
+      width: auto;
+      background-color: rgb(226, 243, 242);
+           
+    }
+
+    /* overall fonts */
+    
+    h1 {
+      font-size: 48px;
+   }
+   
+   h2 {
+       font-size: 36px;
+       text-align: center;
+   }
+   
+   h3 {
+      font-size: 28px;
+      
+   }
+
+   h4 {
+    font-size: 28px;
+    color:grey;
+    font-weight: bolder;
+    
+   }
+
+   h5 {
+    font-size: 18px;
+    color:teal;
+    font-weight: bold;
+   }
+
+   
+
+    header {
+      background-color: teal;
+      padding: 30px 0;
+      text-align: center;
+      color: white;
+     
+    }
+
+    .intro {
+      background-color:lightseagreen;
+      color: teal;
+      padding: 10px 10px;
+      
+    }
+    
+    .columns {
+      display: flex;
+    
+    }
+
+    .column {
+      margin: 0 auto;
+      border: white 12px groove;
+      padding: 0 10px;
+      text-align: left;
+    }
+
+    .textBlock {
+      background-color:lightgray;
+      color: teal;
+      padding: 5px;
+     
+    }
+    
+    .infoBlock {
+      margin: 0 100px;
+      border: teal 5px ridge;
+      text-align: center;
+      width: auto;
+      padding: 0 300px;
+            
+    }
+    
+    .textBlock2 {
+      background-color:lightseagreen;
+      color: black;
+      padding: 5px;
+     
+    }
+    
+    .infoBlock2 {
+      margin: 0 100px;
+      border: grey 5px ridge;
+      text-align: left;
+      width: auto;
+      padding: 0 300px;
+            
+    }
+    
+    
+    .introPP {
+      background-color:paleturquoise;
+      color:seagreen;
+      padding: 10px;
+      
+    }
+    
+    .columnsPP {
+      display: flex;
+    
+    }
+
+    .columnPP {
+      margin: 0 100px;
+      border: turquoise 5px solid;
+      padding: 0 20px;
+      text-align: left;
+    }
